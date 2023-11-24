@@ -1,0 +1,16 @@
+# ninja log v5
+3	2306	1700770157887593975	CMakeFiles/test.dir/Systems/Movement.cpp.o	98a89b0f2e33316f
+2	2376	1700770440171203874	CMakeFiles/test.dir/main.cpp.o	57f53bb2da4db4fc
+2	269	1700770188897720008	CMakeFiles/test.dir/netcode/LocalClient.cpp.o	261d10511abc284
+3	1197	1700770156780922811	CMakeFiles/test.dir/Scenes/Scene.cpp.o	5adf99ad4e14408d
+0	22	1700770589378055475	build.ninja	e9edb63b4de664d9
+1	2173	1700770190797727731	CMakeFiles/test.dir/Systems/Network.cpp.o	dcdf3d6d16a6480d
+3	1600	1700770157184257783	CMakeFiles/test.dir/GameContext.cpp.o	a5798527ea55ae2c
+2376	2516	1700770440314541312	test	14e426ee0d02f0b9
+2	1181	1700770156764256075	CMakeFiles/test.dir/Systems/System.cpp.o	5134d38f16317340
+2	2352	1700770157934260831	CMakeFiles/test.dir/Scenes/MainScene.cpp.o	3c1647f076b6c571
+3	2176	1700770157757593446	CMakeFiles/test.dir/Systems/SystemManager.cpp.o	e7dd3627285d30b1
+2	2499	1700770158084261441	CMakeFiles/test.dir/Game.cpp.o	2c74ac51432119a6
+3	1791	1700770157374258555	CMakeFiles/test.dir/ResourceManagers/TextureManager.cpp.o	bdf6de40126477a5
+3	2928	1700770158507596494	CMakeFiles/test.dir/Systems/AnimationHandler.cpp.o	8f2fa936522fbbbe
+3	3198	1700770158777597591	CMakeFiles/test.dir/Systems/Render.cpp.o	472eed5ecf747c98
